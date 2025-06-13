@@ -22,13 +22,13 @@ This project was created to practice and learn the basics of Laravel, including:
 
 - PHP >= 8.1  
 - Composer  
-- Laravel 10  
-- MySQL or another supported database  
-- Node.js + npm (for frontend asset compilation, optional)
+- Laravel 12  
+- MySQL and phpadmin 
+
 
 ## 🚀 Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/the-book-review.git
+   git clone https://github.com/MaciejSzelag/The-book-review
    cd the-book-review
